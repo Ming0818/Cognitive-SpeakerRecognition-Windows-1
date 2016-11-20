@@ -250,3 +250,5 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+Identification/data/Grabaci_n_.wav
+Identification/data/Grabación.m4a
